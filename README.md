@@ -1,2 +1,2 @@
-# starindia.ecom.in
+# starindia
 Star India E-Commerce Website
